@@ -1,0 +1,398 @@
+* {
+  margin: 0%;
+}
+.navbar {
+  padding: 1%;
+}
+.navbar a {
+  color: rgb(24, 24, 24);
+  text-decoration: none;
+  font-size: 17px;
+  margin-right: 2%;
+  font-family: Inter, sans-serif;
+}
+.navbar img {
+  vertical-align: middle;
+}
+.logo {
+  margin: 0% 6% 0% 4% !important;
+}
+#btn {
+  color: white;
+  margin-left: 5%;
+  padding: 0.7%;
+  border-radius: 25px;
+  background-color: #00baf2;
+  text-align: center;
+  padding-left: 2%;
+  font-family: Inter, sans-serif;
+  font-size: 15px;
+  /* height: 20px;
+    width: 500px; */
+}
+#btn:hover {
+  background-color: rgb(19, 19, 94);
+}
+.text {
+  background-color: rgba(239, 239, 239, 0.8);
+  padding: 1%;
+  font-family: Inter, sans-serif;
+}
+.secondsection {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Poppins", sans-serif;
+  margin: 7% 0% 7% 5%;
+}
+.downloadapp {
+  border: 1px solid black;
+  background-color: black;
+  color: white;
+  width: 53%;
+  border-radius: 25px;
+  margin-top: 7%;
+  padding: 1%;
+}
+.heading2 {
+  font-size: 45px;
+  margin-top: 4%;
+}
+.recharge {
+  font-size: 18px;
+}
+.downloadapp:hover {
+  background-color: white;
+  color: black;
+}
+.icons i {
+  margin-left: 4%;
+}
+.rechargesection {
+  background-color: #00bbf2;
+  padding: 3%;
+  font-family: "Poppins", sans-serif;
+}
+.rechargesection h1 {
+  color: white;
+  font-size: 40px;
+  margin-bottom: 5%;
+}
+.rechargesectiondiv {
+  display: flex;
+  justify-content: space-evenly;
+}
+.rechargesectiondiv a {
+  text-decoration: none;
+  color: black;
+}
+.rechargesection a:hover {
+  background-color: #00adf2;
+  border-radius: 15px;
+}
+.rechargesectiondiv p {
+  color: white;
+}
+.rechargesectiondiv img {
+  margin-bottom: 5%;
+}
+.sec4 {
+  background-color: #011d3b;
+  padding: 5%;
+  font-family: "Poppins", sans-serif;
+}
+.sec4 h1 {
+  font-size: 40px;
+  color: white;
+  margin-bottom: 5%;
+}
+.sec4 a:hover {
+  background-color: #02386e;
+  border-radius: 15px;
+}
+.paymentsection {
+  font-size: 30px;
+  background-color: rgba(239, 239, 239, 0.6);
+  font-family: "Poppins", sans-serif;
+  margin-top: 7%;
+  padding: 7%;
+}
+.paymentsectiondiv1 {
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 6%;
+  border-radius: 10px;
+  margin-top: 3%;
+}
+.div1 h1 {
+  font-size: 32px;
+  margin-bottom: 5%;
+}
+.div1 p {
+  font-size: 17px;
+}
+.downloadapp {
+  width: 55%;
+}
+.walletlogo {
+  display: flex;
+  margin-bottom: 6%;
+}
+.paymentsectiondiv2 {
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 6%;
+  border-radius: 10px;
+  margin-top: 3%;
+}
+.div2 h1 {
+  font-size: 32px;
+  margin-bottom: 5%;
+}
+.div2 p {
+  font-size: 17px;
+}
+.paymentsectiondiv3 {
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 6%;
+  border-radius: 10px;
+  margin-top: 3%;
+}
+.div3 h1 {
+  font-size: 30px;
+  margin-bottom: 4%;
+}
+.div3 p {
+  font-size: 17px;
+  margin-bottom: 9%;
+}
+.div3 a {
+  font-size: 18px;
+  text-decoration: none;
+  color: white;
+  background-color: #00bbf2;
+  border-radius: 30px;
+  padding: 2%;
+}
+.upilogo {
+  display: flex;
+  margin-bottom: 6%;
+}
+.paymentsectiondiv4 {
+  display: flex;
+  border: 1px solid white;
+}
+.hdfcsection1 a {
+  text-decoration: none;
+  color: black;
+}
+.hdfcsection {
+  background-color: white;
+  margin-top: 4%;
+  margin-right: 7%;
+  padding: 7%;
+  padding-bottom: 0%;
+}
+.hdfcsection h1 {
+  font-size: 30px;
+  margin-top: 3%;
+}
+.hdfcsection p {
+  font-size: 15px;
+  margin-top: 4%;
+}
+.div42 {
+  background-color: white;
+  margin-top: 4%;
+  padding: 8%;
+  padding-bottom: 0%;
+}
+.div42 h1 {
+  font-size: 30px;
+  margin-top: 3%;
+}
+.div42 p {
+  font-size: 15px;
+  margin-top: 4%;
+}
+.div422 a {
+  text-decoration: none;
+  color: black;
+}
+.sbilogo {
+  margin-top: 3%;
+}
+.financesection {
+  font-family: "Poppins", sans-serif;
+}
+.financesectiondiv {
+  margin-left: 5%;
+  margin-right: 4%;
+  display: flex;
+  justify-content: space-between;
+}
+.paytm {
+  font-size: 43px;
+  margin-top: 8%;
+  margin-bottom: 4%;
+  margin-left: 5%;
+}
+.bank {
+  font-size: 35px;
+  margin-top: 9%;
+  margin-bottom: 7%;
+}
+.div61 p {
+  margin-bottom: 8%;
+  font-size: 20px;
+}
+.div61 a {
+  background-color: #02386e;
+  text-decoration: none;
+  color: white;
+  border-radius: 25px;
+  width: 35%;
+  padding: 2%;
+}
+.div61 a:hover {
+  background-color: #00adf2;
+  border-radius: 15px;
+}
+.longtermsection {
+  font-family: "Poppins", sans-serif;
+}
+.longtermsection {
+  background-image: url(https://assetscdn1.paytm.com/frontendcommonweb/69678bc5.png);
+  background-size: 100%;
+  display: flex;
+  padding: 5% 10% 10% 3%;
+  justify-content: space-between;
+}
+.goals {
+  font-size: 38px;
+  margin-top: 4%;
+  margin-bottom: 4%;
+  margin-left: 2%;
+}
+.div7 p {
+  margin-bottom: 8%;
+  font-size: 20px;
+}
+.div7 a {
+  background-color: #02386e;
+  text-decoration: none;
+  color: white;
+  border-radius: 25px;
+  width: 35%;
+  padding: 2%;
+}
+.div7 a:hover {
+  background-color: #00adf2;
+  border-radius: 15px;
+}
+.financesectiondiv {
+  margin-left: 5%;
+  margin-right: 4%;
+  display: flex;
+  justify-content: space-between;
+}
+.insurancemadeeasysection {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Poppins", sans-serif;
+  margin: 7% 0% 7% 5%;
+}
+.heading {
+  font-size: 45px;
+  margin-top: 4%;
+}
+.insurance {
+  font-size: 18px;
+}
+.div8 a {
+  background-color: #02386e;
+  text-decoration: none;
+  color: white;
+  border-radius: 25px;
+  width: 32%;
+  padding: 1%;
+}
+.div8 a:hover {
+  background-color: #00adf2;
+  border-radius: 15px;
+}
+.personalloansection {
+  font-family: "Poppins", sans-serif;
+  margin-left: 5%;
+  margin-right: 4%;
+  display: flex;
+  justify-content: space-between;
+}
+.loan {
+  font-size: 38px;
+  margin-top: 4%;
+  margin-bottom: 4%;
+  margin-left: 4%;
+}
+.div9 p {
+  margin-bottom: 8%;
+  font-size: 20px;
+}
+.div9 a {
+  background-color: #02386e;
+  text-decoration: none;
+  color: white;
+  border-radius: 25px;
+  width: 35%;
+  padding: 2%;
+}
+.div9 a:hover {
+  background-color: #00adf2;
+  border-radius: 15px;
+}
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0px 0px 0px 0px;
+  width: 100%;
+  height: auto;
+  font-size: 3px;
+  background-color: #f1f1f1;
+  border: 1px lightslategray black;
+  padding-top: 2px;
+  padding-bottom: 50px;
+
+}
+
+.leftfooter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 20px;
+  padding-left: 100px;
+}
+.leftfooter h1 {
+  margin: 10px 0px 0px 0px;
+  font-family: sans-serif;
+  font-size: 20px;
+  padding-top: 19px;
+}
+.leftfooter img {
+  margin-top: 29px;
+  margin-left: 30px;
+}
+.rightfooter{
+    padding-right: 50px;
+}
+.rightfooter img {
+  height: 30px;
+  width: 30px;
+  padding-top: 9px;
+  padding-left: 30px;
+  margin-top: 29px;
+  
+}
